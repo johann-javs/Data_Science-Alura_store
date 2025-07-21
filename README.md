@@ -3,6 +3,7 @@
 ## Descripción del Proyecto
 
 El señor Juan posee cuatro tiendas y busca vender una para invertir las ganancias en un nuevo negocio. Para esto, necesita un análisis de ventas y rendimiento que le permita identificar la tienda con el desempeño más bajo y así poder venderla.
+kjgajaghia
 ---
 
 ## 🚀 Acerca del Desafío
