@@ -17,11 +17,11 @@ Los datos de las tiendas se obtuvieron de archivos CSV alojados en el siguiente 
 
 El análisis se centró en las siguientes métricas clave para cada tienda:
 
-* **Total de ingresos** por cada tienda.
-* **Top ventas por categoría** de cada tienda.
+* **Total de ingresos**
+* **Top ventas por categoría**
 * **Calificación promedio** de satisfacción del cliente.
-* **Productos más y menos vendidos** por cada tienda.
-* **Costo promedio de envío** por cada tienda.
+* **Productos más y menos vendidos** 
+* **Costo promedio de envío**
 
 ### 3. **Informe Final**
 
