@@ -2,7 +2,7 @@
 
 ## Descripción del Proyecto
 
-El señor Juan posee cuatro tiendas y busca identificar cuál de ellas presenta el **menor desempeño** para poder venderla y así **invertir las ganancias en un nuevo negocio**. Este proyecto consiste en realizar un análisis exhaustivo de las ventas y el rendimiento de cada tienda para ayudar al señor Juan a tomar esta decisión estratégica.
+El señor Juan tiene 4 tiendas y desea vender una tienda para invertir las ganacias de la venta en nuevo negocio. Para ello, requiere un análisis de ventas y rendimientoas de las tiendas para determinar cuál es la tienda con menor desempeño y asi poder venderla
 
 ---
 
